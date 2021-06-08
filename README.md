@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riccardo Agostinelli
+- 👋 Hi, I’m @Rokman-dev
 - 👀 I’m interested in pixel art and 3D modeling
 - 🌱 I’m currently learning 3D modeling
 - 💞️ I’m looking to collaborate on ...
